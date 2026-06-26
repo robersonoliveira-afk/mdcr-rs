@@ -1,5 +1,12 @@
 # Banco de Dados de Crédito Rural — Rio Grande do Sul
 
+## Download do banco de dados
+
+O arquivo `mdcr_rs.duckdb` (~28 MB) está disponível para download:
+
+[⬇ Baixar mdcr_rs.duckdb](https://1drv.ms/f/c/c8083ef01df0b63d/IgDcefDtIYbRRb-CCFIy6tGxASzupAVQ9fSqJSyDxLZOTbM)
+
+Após baixar, coloque o arquivo na mesma pasta dos scripts Python.
 Banco de dados de crédito rural do Rio Grande do Sul construído a partir da API pública do Banco Central do Brasil (MDCR/SICOR), cobrindo o período de 2013 a maio/2026.
 
 ## Sobre o projeto
