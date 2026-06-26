@@ -11,7 +11,7 @@ Banco de dados de crédito rural do Rio Grande do Sul construído a partir da AP
 
 ## Sobre o projeto
 
-Este banco foi desenvolvido como base empírica para pesquisa sobre alocação de crédito rural, risco agrícola e dinâmica territorial no Pampa gaúcho, no âmbito de tese de professor titular (UFSM). Os dados permitem análises territoriais desagregadas por município, produto, programa e modalidade de crédito.
+Este banco foi desenvolvido como base empírica para pesquisa sobre alocação de crédito rural, risco agrícola e dinâmica territorial. Os dados permitem análises territoriais desagregadas por município, produto, programa e modalidade de crédito.
 
 ## Estrutura do banco
 
